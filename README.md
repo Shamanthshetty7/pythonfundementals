@@ -1,6 +1,3 @@
-# pythonfundementals
+# Python Fundementals
 Master in python basic programs....
-
-hello
-<br>
-<p>good morning.</p>
+If you learn from basic you gonna be master....
