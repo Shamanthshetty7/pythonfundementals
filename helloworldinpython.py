@@ -12,6 +12,6 @@ b="Shamanth"                #strings are used only within the " " or ' '
 print(a,end=' ')            #if you dont want to give line break then just use end="spaces how much you want" 
 print(b)
 print("move forword to next program")
-hello
+
 
 #just run it over any python ide 
