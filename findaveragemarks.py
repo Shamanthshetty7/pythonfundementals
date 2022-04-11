@@ -1,4 +1,4 @@
-# Write a program to input marks of three tests of a student (all integers). Then calculate and print the average of all test marks.
+# 2. Write a program to input marks of three tests of a student (all integers). Then calculate and print the average of all test marks.
 #Input format  :  3 Test marks (in different lines)
 #Sample Input 1 :
 # 3 
