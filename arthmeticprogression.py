@@ -8,7 +8,7 @@
 # 2
 
 # here we are caluculating common difference of the numbers
-a=int(input())
+a=int(input())        # user inputs
 b=int(input())
 c=int(input())
 com=b-a or c-b        # logical operaters are used commonly like  'or' ,'and'  .....
