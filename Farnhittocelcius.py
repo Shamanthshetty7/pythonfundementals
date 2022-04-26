@@ -1,4 +1,4 @@
-##Fahrenheit to Celsius
+# Fahrenheit to Celsius
 
 # One of the importants basic program..
 
@@ -19,14 +19,14 @@
 # Read input as sepcified in the question
 # Print output as specified in the question
 
-s=int(input())       # Starting value
-e=int(input())       # ending value
-w=int(input())       # difference
+s=int(input())               # Starting value
+e=int(input())               # ending value
+w=int(input())               # difference
 while s<=e :                 # loop will terminate when the condition is failed.
    celcious=(s-32)*5/9       # farnheit to celcious conversion formulae
    print  (s,int(celcious))  # printing both value at a time
    s=s+w                     # incrementation
 
 
-# and thats it...
+# you are done with the code.
 
