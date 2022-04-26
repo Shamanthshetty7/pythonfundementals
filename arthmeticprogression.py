@@ -11,9 +11,9 @@
 a=int(input())        # user inputs
 b=int(input())
 c=int(input())
-com=b-a or c-b        # logical operaters are used commonly like  'or' ,'and'  .....
+com=b-a or c-b        # logical operaters are used commonly like  'or' ,'and'  ....
 print(com)
 
 
-# that's it....
+# that's it.
 # lets move to next program..
