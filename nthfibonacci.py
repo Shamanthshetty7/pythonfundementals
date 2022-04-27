@@ -17,10 +17,9 @@ a=0
 b=1
 c=-1
 for i in range(n):        # using for loop.for i in range(initial condition,finalcondition,increment/decrement).by default initial condition will be zero and increment will be one.
-    c=a+b                 # method pf storing fibbonacci sequences.
+    c=a+b                 # method of storing fibbonacci sequences.
     a=b
     b=c
 print(a)
 
 # give little effort to understand the concept.
-# thats it.
