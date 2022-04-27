@@ -22,9 +22,9 @@ while n!=0:
       sum_e+=i         # if even
     else:
       sum_o+=i         # else odd
-print(sum_e, sum_o)    #printing 
+print(sum_e, sum_o)    # printing 
 
-# and thats it..
+# and thats it.
 
     
 
