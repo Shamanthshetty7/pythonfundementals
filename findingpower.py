@@ -16,6 +16,6 @@ n=int(input())
 s=x**n           # for finding power of something we can use (base value)**(exponential value)  # ** is used for taking exponent
 print(s)  
 
-# do you find it easy..
-# python has more intresting operters and functions  
-# so.. lets move to next program...
+# do you find it easy.
+# python has more intresting operaters and functions  
+# so, lets move to next program.
