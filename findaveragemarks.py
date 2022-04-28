@@ -19,5 +19,5 @@ Marks3=int(input())                          # before using input() function men
 Average=(Marks1+Marks2+Marks3)/3             # Arthmetic operations works as per BODMAS rule.
 print (Average)
 
-#Try running the program using python3 ide
-#let's move to next program
+# Try running the program using python3 ide.
+# let's move to next program.
