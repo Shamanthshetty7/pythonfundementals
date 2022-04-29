@@ -19,4 +19,4 @@ while i<=n :    # while loop is used to repeat the process till the user input s
     
 print(sum)
 
-# yah..move forward..
+# yah..move forward.
