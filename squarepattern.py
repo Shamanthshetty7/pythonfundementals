@@ -5,6 +5,7 @@
 
 #Sample Input 1:
 # 7
+
 # Sample Output 1:
 # 7777777
 # 7777777
@@ -25,4 +26,4 @@ while i<=n:                  # this for printing the nomber of rows
     print()
     i=i+1
 
-# try to understand the logic behind the code.analyze each codes.
+# Try to understand the logic behind the code.analyze each codes.
