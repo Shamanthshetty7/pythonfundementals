@@ -1,4 +1,4 @@
-# Moving to conditionals and loops
+# Moving to CONDITIONALS and LOOPS
  
 # Checking the given Number
 
