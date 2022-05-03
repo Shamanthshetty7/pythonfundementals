@@ -21,4 +21,4 @@ if(rev==temp):            # comparing reversed value with the original value
 else:
     print('false')        # else
 
-# and thats it.
+# and that's it.
