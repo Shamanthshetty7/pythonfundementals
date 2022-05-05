@@ -18,4 +18,4 @@ print(s)
 
 # Do you find it easy.
 # python has more intresting operaters and functions.
-# so, lets move to next program.
+# So, lets move to next program.
