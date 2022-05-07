@@ -28,5 +28,5 @@ while s<=e :                 # loop will terminate when the condition is failed.
    s=s+w                     # incrementation
 
 
-# you are done with the code.
+# You are done with the code.
 
