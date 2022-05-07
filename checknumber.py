@@ -21,4 +21,4 @@ elif n<0:                                 # elif condition: is used to give alte
 else:
     print("Zero")                         # else:  is executed when any one of the conditions are not satisfied.
 
-# work out using your own programs..it will give you better practice.
+# Work out using your own programs..it will give you better practice.
