@@ -20,7 +20,7 @@ y2=int(input())
 area=(x2-x1)*(y2-y1)   # formula of rectangular area
 print(area)
 
-# great going...
+# great going..
 
 # let us move to next program..
 # we will be working on conditions and loops in upcoming programs.
