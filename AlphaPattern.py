@@ -20,4 +20,4 @@ while i<=n:
     print()
     i=i+1 
 
-# yes you are moving, each program that you are learning is making your foundation stronger. so dont stop.
+# Yes you are moving, each program that you are learning is making your foundation stronger. so dont stop.
