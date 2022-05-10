@@ -29,4 +29,4 @@ while i<=n:
     i=i+1
     p=p+1
 
-# Analyse the code to understand.
+# Analyse the code to understand..
