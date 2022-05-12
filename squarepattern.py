@@ -1,5 +1,5 @@
 # Lets move patterns
-# this will improve your logic in looping
+# This will improve your logic in looping
 
 # Code : Square Pattern
 
