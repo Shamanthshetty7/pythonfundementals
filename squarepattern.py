@@ -18,9 +18,9 @@
 # here is your code
 n=int(input())
 i=1
-while i<=n:                  # this for printing the nomber of rows 
+while i<=n:                  # This for printing the nomber of rows 
     j=1
-    while j<=n:              # and this for orinting the elements of every row
+    while j<=n:              # And this for orinting the elements of every row
         print(n,end="")
         j=j+1
     print()
