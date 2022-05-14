@@ -21,4 +21,4 @@ while i<=n:
     print()
     i=i+1
 
-# Practice on ord() function and char() function with your own effort.It will help you to build your logic thinking ability..
+# Practice on ord() function and char() function with your own effort.It will help you to build your logic thinking ability.
