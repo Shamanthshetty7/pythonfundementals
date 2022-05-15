@@ -40,3 +40,4 @@ while i>=1:
         j=j+1
     print()
     i=i-1
+# thats it..
