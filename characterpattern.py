@@ -20,4 +20,4 @@ while i<=n:
     print()
     i=i+1
 
-# all you have to learn is looping concept thoroughly.
+# All you have to learn is looping concept thoroughly.
