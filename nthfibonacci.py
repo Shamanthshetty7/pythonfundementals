@@ -22,4 +22,4 @@ for i in range(n):        # using for loop.for i in range(initial condition,fina
     b=c
 print(a)
 
-# Give little effort to understand the concept.
+# Give little effort to understand the concept..
