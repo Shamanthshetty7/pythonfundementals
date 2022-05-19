@@ -35,4 +35,4 @@ for i in range(n-1,0,-1):
         print(temp,end="")
     print()
 
-# Thats it..
+# Thats it.
