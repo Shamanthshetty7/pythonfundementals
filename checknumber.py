@@ -12,7 +12,7 @@
 # Sample Output 1 :
 # Positive
 
-# checking whether the number is positive ,negative or zero
+# checking whether the number is positive ,negative or zero.
 n=int(input())                            # taking user input
 if n>0:                                   # if condition:  is used define our condition ..if condition satisfies then only the body of the if is executed.
     print("Positive")
