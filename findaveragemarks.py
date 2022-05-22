@@ -20,4 +20,4 @@ Average=(Marks1+Marks2+Marks3)/3             # Arthmetic operations works as per
 print (Average)
 
 # Try running the program using python3 ide.
-# let's move to next program.
+# Let's move to next program.
