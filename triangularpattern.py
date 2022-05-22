@@ -10,6 +10,7 @@
 # Sample Input 1:
 # 5
 # Sample Output 1:
+
 # *
 # **
 # ***
