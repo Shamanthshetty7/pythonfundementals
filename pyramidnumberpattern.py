@@ -29,4 +29,4 @@ while i<=n:
     print()
     i=i+1
 
-    # thats it.
+    # Thats it.
