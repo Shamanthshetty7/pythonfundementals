@@ -3,7 +3,7 @@
 #  Its high-level built in data structures, combined with dynamic typing and dynamic binding,
 #  make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language...
 
-# so...let's begin
+# so.. let's begin
 
 print("HELLO WORLD")        # if you want to print anything just use print()
 print(100)                  # " " or ' ' is used inside the print() only if you wanna print character or string
