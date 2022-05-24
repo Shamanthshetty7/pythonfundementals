@@ -26,4 +26,4 @@ while i<=n:                  # This for printing the nomber of rows
     print()
     i=i+1
 
-# Try to understand the logic behind the code.Analyze each codes.
+# Try to understand the logic behind the code.Analyze each codes..
