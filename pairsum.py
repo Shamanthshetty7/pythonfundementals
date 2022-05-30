@@ -5,7 +5,7 @@ from sys import stdin
 
 
 def pairSum(arr, n, x) :
-    #Your code goes here
+    # Your code goes here
     count=0
     for i in range(n):
         k=i+1
@@ -24,7 +24,7 @@ def takeInput() :
     return arr, n
 
 
-#main
+# main
 t = int(stdin.readline().strip())
 
 while t > 0 :
