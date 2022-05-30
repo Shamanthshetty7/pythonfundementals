@@ -1,5 +1,16 @@
 # Pair Sum
 
+# You have been given an integer array/list(ARR) and a number X. 
+# Find and return the total number of pairs in the array/list which sum to X.
+
+# Sample Input 1:
+# 1
+# 9
+# 1 3 6 2 5 4 3 2 4
+# 7
+
+# Sample Output 1:
+# 7
 
 from sys import stdin
 
