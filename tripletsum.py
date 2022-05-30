@@ -3,6 +3,13 @@
 # You have been given a random integer array/list(ARR) and a number X. 
 # Find and return the number of triplets in the array/list which sum to X.
 
+# Sample Input 1:
+# 1
+# 7
+# 1 2 3 4 5 6 7 
+# 12
+# Sample Output 1:
+# 5
 
 from sys import stdin
 
