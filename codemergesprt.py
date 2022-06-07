@@ -47,7 +47,7 @@ def takeInput() :
     return list(), 0
 
 
-#to print the array/list
+# to print the array/list
 def printList(arr, n) : 
     for i in range(n) :
         print(arr[i], end = " ")
@@ -55,7 +55,7 @@ def printList(arr, n) :
     print()
 
 
-#main
+# main
 t = int(stdin.readline().rstrip())
 
 while t > 0 :
